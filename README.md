@@ -141,9 +141,9 @@
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 
-| **CodeChef** |    147 |           934 |
+| **CodeChef** |     147 |           934 |
 
-| **CodeForces** |  136 |             |
+| **CodeForces** |   136                 |
 
 
 ###  **Hackathon Achievements**
